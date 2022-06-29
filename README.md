@@ -25,6 +25,8 @@
 	<li><code>Node</code></li>
 	<li><code>Ruby on Rails</code></li>
 	<li><code>Liquid</code></li>
+	<li><code>MySQL</code></li>
+	<li><code>MongoDB</code></li>
 </ul>
 
 <h2 style="letter-spacing: 0.1em;"><strong>🛠️ KNOWN FRAMEWORKS & DEV TOOLS</strong></h2>
