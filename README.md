@@ -12,7 +12,7 @@
 <h2 style="letter-spacing: 0.1em;"><strong>👨‍🔬 ABOUT ME</strong></h2>
 <p style="color: #b3b3b3">Hi, my name is Ash <em>(Ashley, Ash, Gashy, pick your poison)</em>, I am a full stack senior developer based in the United Kingdom.</p>
 
-<p style="color: #b3b3b3">I started building websites in <strong style="color: #dedede">2018</strong>, and have been building them commercially for clients <strong style="color: #dedede">since 2020<strong>.</p>
+<p style="color: #b3b3b3">I started building websites in <strong style="color: #dedede">2018</strong>, and have been building them commercially for clients <strong style="color: #dedede">since 2020</strong>.</p>
 
 <p style="color: #b3b3b3">My main passion project currently is <strong><a href="https://www.zombacus.com/">Zombacus</a></strong> - A resource hub/community for Call of Duty: Zombies.</p>
 
