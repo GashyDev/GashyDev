@@ -14,7 +14,7 @@
 ## 👨‍🔬 **About me**
 My name is Ash (Ashley, Gashy, pick your poison), I am a full-stack senior developer based in the United Kingdom.
 
-I started my development journey in 2018, and I have been building bespoke-focused websites commercially since 2020.
+I started my development journey in **2018**, and I have been building bespoke-focused websites commercially since **2020**.
 
 I'm always happy to try something challenging or new, so I like to keep up to date with the new developments that appear on the development scene.
 
