@@ -1,47 +1,48 @@
+<p align="center"><img src="https://avatars.githubusercontent.com/u/34476863?v=4" width="150"/></p>
+
+<h1 align="center">Hey There, <strong>Ash</strong> Here! 🍻</h1>
+
 <p align="center">
-		<img src="https://avatars.githubusercontent.com/u/34476863?v=4" width="150"/>
+    <img src="https://streak-stats.demolab.com?user=GashyDev&theme=dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&card_width=500&ring=9B5CEB&fire=EBACDC&currStreakLabel=EBEBEB&currStreakNum=EBACDC&background=45%2C09050D%2C130B1D&sideNums=EBACDC&border=9B5CEB"/>
 </p>
 
-<h1 align="center" style="color: #b3b3b3">Hi There, <strong style="color: #dedede">Ash</strong> Here! 🍻</h1>
-<p align="center" style="display: flex; gap: 1rem; justify-content: center;">
-		<img src="https://wakatime.com/badge/user/435d5c32-9fc9-4e00-a696-70a0fcf0003e.svg"/>
-		<img src="https://img.shields.io/github/followers/GashyDev?style=social"/>
+<p align="center">
+    <img src="https://wakatime.com/badge/user/435d5c32-9fc9-4e00-a696-70a0fcf0003e.svg"/>
+    <img src="https://img.shields.io/github/followers/GashyDev?style=social"/>
 </p>
 
+## 👨‍🔬 **About me**
+My name is Ash *(Ashley, Gashy, pick your poison)*, I am a full stack senior developer based in the United Kingdom.
 
-<h2 style="letter-spacing: 0.1em;"><strong>👨‍🔬 ABOUT ME</strong></h2>
-<p style="color: #b3b3b3">Hi, my name is Ash <em>(Ashley, Ash, Gashy, pick your poison)</em>, I am a full stack senior developer based in the United Kingdom.</p>
+I've started my development journey in **2018**, and I have been building bespoke focused websites commercially since **2020**.
 
-<p style="color: #b3b3b3">I started building websites in <strong style="color: #dedede">2018</strong>, and have been building them commercially for clients <strong style="color: #dedede">since 2020</strong>.</p>
+I'm always happy to try something challenging or new, so I like to keep up to day with the new developments that appear on the development scene.
 
-<p style="color: #b3b3b3">My main passion project currently is <strong><a href="https://www.zombacus.com/">Zombacus</a></strong> - A resource hub/community for Call of Duty: Zombies.</p>
+## 🌐 **Known languages, frameworks & tools**
+- HTML, CSS, JS
+- PHP, WordPress, Laravel, Twig
+- Node, React, Vue
+- Ruby on Rails, Liquid
+- MySQL, MongoDB
+- SASS, Bootstrap, Tailwind
 
-<h2 style="letter-spacing: 0.1em;"><strong>🌐 KNOWN LANGUAGES</strong></h2>
-<ul>
-	<li><code>HTML</code></li>
-	<li><code>CSS</code></li>
-	<li><code>Javascript</code></li>
-	<li><code>PHP</code></li>
-	<li><code>Node</code></li>
-	<li><code>Ruby on Rails</code></li>
-	<li><code>Liquid</code></li>
-	<li><code>MySQL</code></li>
-	<li><code>MongoDB</code></li>
-</ul>
+## 🛠️ **Personal projects**
+### **[Leo's Legacy](https://leoslegacy.co.uk)**
+On Jan 21<sup>st</sup> 2024, my 2 year old son Leo sadly lost his life to Group 3 Medulloblastoma with MYC applification - a form of brain cancer that primarily affects male infants & children (2:1 male to female), and the MYC protein amplified the progression of the tumour to a terrifying speed.
 
-<h2 style="letter-spacing: 0.1em;"><strong>🛠️ KNOWN FRAMEWORKS & DEV TOOLS</strong></h2>
-<ul>
-	<li><code>React</code> - Javascript</li>
-	<li><code>Vue</code> - Javascript</li>
-	<li><code>Laravel</code> - PHP</li>
-	<li><code>SASS</code> - CSS Preprocessor</li>
-	<li><code>Bootstrap</code> - CSS</li>
-	<li><code>Tailwind</code> - CSS</li>
-</ul>
+Leo was my best friend, his love knew no bounds, his bright smile would light up anyones day, and his hilarious daily antics would make us laugh, and will forever continue to in our memories.
 
-<h2 style="letter-spacing: 0.1em;"><strong>❓ GOT ANY QUESTIONS?</strong></h2>
-<p style="color: #b3b3b3">If you have any dev related questions, or are looking for a bit of help with open sourced projects, feel free to contact me via any of the methods below:</p>
-<ul>
-	<li><code>Discord</code> - Gashy#7460</li>
-	<li><code>Twitter</code> - <a href="https://twitter.com/GashyDev" target="_blank">@GashyDev</a></li>
-</ul>
+When the tumour was diagnosed it's progression was so fast that it took his precious soul in less than a week, a pain that broke us tremendously as parents - something no parent should ever have to live with.
+
+Because of this we have formed a charity in memory of Leo to raise awareness of Medulloblastoma, to help raise money towards medical research for better treatments, and to discover early detection methods.
+
+### **[Zombacus](https://zombacus.com)**
+Zombacus is a resource hub for Call of Duty: Zombies.
+
+This was one of my very first personal projects, it allowed me to learn many skills and lessons during my early days of web development.
+
+## ❓ Got any questions?
+If you have any dev related questions, or are looking for a bit of help with open sourced projects, feel free to contact me:
+- [LinkedIn](https://www.linkedin.com/in/ashley-hambly-1b4176288/)
+- [Twitter](https://twitter.com/GashyDev)
+- Discord - gashy
