@@ -12,11 +12,11 @@
 </p>
 
 ## 👨‍🔬 **About me**
-My name is Ash *(Ashley, Gashy, pick your poison)*, I am a full stack senior developer based in the United Kingdom.
+My name is Ash (Ashley, Gashy, pick your poison), I am a full-stack senior developer based in the United Kingdom.
 
-I've started my development journey in **2018**, and I have been building bespoke focused websites commercially since **2020**.
+I started my development journey in 2018, and I have been building bespoke-focused websites commercially since 2020.
 
-I'm always happy to try something challenging or new, so I like to keep up to day with the new developments that appear on the development scene.
+I'm always happy to try something challenging or new, so I like to keep up to date with the new developments that appear on the development scene.
 
 ## 🌐 **Known languages, frameworks & tools**
 - HTML, CSS, JS
@@ -28,21 +28,21 @@ I'm always happy to try something challenging or new, so I like to keep up to da
 
 ## 🛠️ **Personal projects**
 ### **[Leo's Legacy](https://leoslegacy.info/)**
-On Jan 21<sup>st</sup> 2024, my 2 year old son Leo sadly lost his life to Group 3 Medulloblastoma with MYC applification - a form of brain cancer that primarily affects male infants & children (2:1 male to female), and the MYC protein amplified the progression of the tumour to a terrifying speed.
+On Jan 21<sup>st</sup> 2024, my 2-year-old son Leo sadly lost his life to Group 3 Medulloblastoma with MYC amplification - a form of brain cancer that primarily affects male infants & children (2:1 male to female), and the MYC protein amplified the progression of the tumour to a terrifying speed.
 
-Leo was my best friend, his love knew no bounds, his bright smile would light up anyones day, and his hilarious daily antics would make us laugh, and will forever continue to in our memories.
+Leo was my best friend, his love knew no bounds, his bright smile would light up anyone's day, and his hilarious daily antics would make us laugh, and will forever continue to be in our memories.
 
-When the tumour was diagnosed it's progression was so fast that it took his precious soul in less than a week, a pain that broke us tremendously as parents - something no parent should ever have to live with.
+When the tumour was diagnosed its progression was so fast that it took his precious soul in less than a week, a pain that broke us tremendously as parents - something no parent should ever have to live with.
 
-Because of this we have formed a charity in memory of Leo to raise awareness of Medulloblastoma, to help raise money towards medical research for better treatments, and to discover early detection methods.
+Because of this, we have formed a charity in memory of Leo to raise awareness of Medulloblastoma, to help raise money towards medical research for better treatments, and to discover early detection methods.
 
 ### **[Zombacus](https://zombacus.com)**
 Zombacus is a resource hub for Call of Duty: Zombies.
 
-This was one of my very first personal projects, it allowed me to learn many skills and lessons during my early days of web development.
+This was one of my very first personal projects - built with PHP, CSS and JS, it allowed me to learn the core concepts of web development and served as a stepping stone into learning other tech stacks.
 
 ## ❓ Got any questions?
-If you have any dev related questions, or are looking for a bit of help with open sourced projects, feel free to contact me:
+If you have any dev-related questions or are looking for a bit of help with open-sourced projects, feel free to contact me:
 - [LinkedIn](https://www.linkedin.com/in/ashley-hambly-1b4176288/)
 - [Twitter](https://twitter.com/GashyDev)
 - Discord - gashy
