@@ -27,7 +27,7 @@ I'm always happy to try something challenging or new, so I like to keep up to da
 - SASS, Bootstrap, Tailwind
 
 ## 🛠️ **Personal projects**
-### **[Leo's Legacy](https://leoslegacy.co.uk)**
+### **[Leo's Legacy](https://leoslegacy.info/)**
 On Jan 21<sup>st</sup> 2024, my 2 year old son Leo sadly lost his life to Group 3 Medulloblastoma with MYC applification - a form of brain cancer that primarily affects male infants & children (2:1 male to female), and the MYC protein amplified the progression of the tumour to a terrifying speed.
 
 Leo was my best friend, his love knew no bounds, his bright smile would light up anyones day, and his hilarious daily antics would make us laugh, and will forever continue to in our memories.
